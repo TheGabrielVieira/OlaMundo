@@ -7,7 +7,10 @@ __Treinando linguagem Markdawn__
 
 **Negrito**: Utilizar **/__
 
-*Italico*: Utilizar:  */_
+*Italico*: Utilizar  */_
 
+~~Riscado~~: Utilizar ~~
 
-
+#Titulo
+##iaeee
+###iaeee
