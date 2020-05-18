@@ -2,5 +2,12 @@
  Primeiro repositorio de versionamento do Git e Github
 
 **Alteraçao direto do site**
-*IAE*
-_treinando md_
+*IAE* 
+__Treinando linguagem Markdawn__
+
+**Negrito**: Utilizar **/__
+
+*Italico*: Utilizar:  */_
+
+
+
