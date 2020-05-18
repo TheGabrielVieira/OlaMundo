@@ -32,7 +32,7 @@ Lista demarcada: Utilizar apenas * /_sem espaço
 
 * teste
 
- * teste
+   * teste
 
 * teste
 
