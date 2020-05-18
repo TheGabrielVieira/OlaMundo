@@ -11,7 +11,7 @@ __Treinando linguagem Markdawn__
 
 ~~Riscado~~: Utilizar ~~
 
-# Titulo: Utilizar :#
+# Titulo: Utilizar #
 ***
 
 __*Misturado*__: Utilizar da mesma forma o negrito e o italico juntos
@@ -35,3 +35,11 @@ Lista demarcada: Utilizar apenas * /_sem espaço
 * teste
 
 * teste
+
+Lista de Tarefas: Utilizar - []
+
+- [] pão
+
+- [] queijo
+
+- [x] presunto
