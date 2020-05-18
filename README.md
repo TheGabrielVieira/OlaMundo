@@ -38,8 +38,8 @@ Lista demarcada: Utilizar apenas * /_sem espaço
 
 Lista de Tarefas: Utilizar - []
 
-- [] pão
+- [ ] pão
 
-- [] queijo
+- [ ] queijo
 
 - [x] presunto
