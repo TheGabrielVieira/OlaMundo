@@ -50,7 +50,5 @@ Lista de Tarefas: Utilizar - []
 Tabela: Utilizar | e ---
 
 Ex: Num| Nome | Notas
-
 ---|---|---
-
 1 | Gabriel | 9.1
