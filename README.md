@@ -32,6 +32,6 @@ Lista demarcada: Utilizar apenas * /_sem espaço
 
 * teste
 
-_ teste
+* teste
 
-_ teste
+* teste
