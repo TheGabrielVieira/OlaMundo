@@ -11,7 +11,7 @@ __Treinando linguagem Markdawn__
 
 ~~Riscado~~: Utilizar ~~
 
-# Titulo: Utilizar #
+# Titulo: Utilizar   #
 
 Linhas Horizontais: Utiliizar ***/---
 
