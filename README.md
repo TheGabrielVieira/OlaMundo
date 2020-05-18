@@ -25,3 +25,13 @@ Listas: Utilizar um numero qualquer seguido de . :
 6. Canada
 
 1111. Finlandia
+
+Lista demarcada: Utilizar apenas * /_sem espaço
+
+*teste
+
+*teste
+
+_teste
+
+_teste
