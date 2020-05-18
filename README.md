@@ -28,10 +28,10 @@ Listas: Utilizar um numero qualquer seguido de . :
 
 Lista demarcada: Utilizar apenas * /_sem espaço
 
-*teste
+* teste
 
-*teste
+* teste
 
-_teste
+_ teste
 
-_teste
+_ teste
