@@ -11,9 +11,7 @@ __Treinando linguagem Markdawn__
 
 ~~Riscado~~: Utilizar ~~
 
-# Titulo: Utilizar
-
-#
+# Titulo: Utilizar asterisco
 
 Linhas Horizontais: Utiliizar ***/---
 
