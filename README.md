@@ -47,8 +47,8 @@ Lista de Tarefas: Utilizar - []
 
 - [x] presunto
 
-Tabela: Utilizar | e ---
+Tabela: Utilizar | e --- Ex
 
-Ex: Num| Nome | Notas
+Num| Nome | Notas
 ---|---|---
 1 | Gabriel | 9.1
