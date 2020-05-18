@@ -18,7 +18,7 @@ __*Misturado*__: Utilizar da mesma forma o negrito e o italico juntos
 
 Listas: Utilizar um numero qualquer seguido de . :
 
-9. Brasil
+1. Brasil
 
 2. Japão
 
