@@ -18,10 +18,10 @@ __*Misturado*__: Utilizar da mesma forma o negrito e o italico juntos
 
 Listas: Utilizar um numero qualquer seguido de . :
 
-9.Brasil
+9. Brasil
 
-2.Japão
+2. Japão
 
-6.Canada
+6. Canada
 
-1111.Finlandia
+1111. Finlandia
