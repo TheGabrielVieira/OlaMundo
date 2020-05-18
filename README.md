@@ -13,3 +13,5 @@ __Treinando linguagem Markdawn__
 
 # Titulo: Utilizar :#
 ***
+
+__*Misturado*__: Utilizar da mesma forma o negrito e o italico juntos
