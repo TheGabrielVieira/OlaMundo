@@ -53,5 +53,5 @@ Num| Nome | Notas
 ---|---|---
 7 | Gabriel | 9.1
 
-Comando Isolado: Utilizar \`` 
-Ex:Como utilizar `Arrays`
+Comando Isolado: Utilizar \`\`
+Ex:Como utilizar `Arreys`?
