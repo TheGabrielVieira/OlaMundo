@@ -56,3 +56,6 @@ Num| Nome | Notas
 Comando Isolado: Utilizar \`\`
 
 Ex:Como utilizar `Arreys`?
+
+Trecho de Códigos: Utilizar \`\`\`
+                            \`\`\`
