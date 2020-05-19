@@ -57,6 +57,20 @@ Comando Isolado: Utilizar \`\`
 
 Ex:Como utilizar `Arreys`?
 
-Trecho de Códigos: Utilizar \`\`\`
+Trecho de Códigos: Utilizar 
+\`\`\`
 
 \`\`\`
+
+Ex:codigo em c
+```
+#include<stdio.h>
+
+int main(){
+   
+   printf("Hello World");
+   
+   return 0;
+}
+
+```
