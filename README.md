@@ -78,3 +78,5 @@ int main(){
 Emoji: Utilizar entre o simbolo de dois pontos \: \:
 
 Ex: :muscle:, :clap:, :eyes:
+
+Para saber mais sobre emojis busque o perfil @ikatyang e pelo repositorios busque por emoji.
