@@ -74,3 +74,7 @@ int main(){
 }
 
 ```
+
+Emoji: Utilizar o dois pontos \:\:
+
+Ex: :muscle:, :clap:, :eyes:
