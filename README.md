@@ -75,6 +75,6 @@ int main(){
 
 ```
 
-Emoji: Utilizar o dois pontos \:\:
+Emoji: Utilizar entre o simbolo de dois pontos \: \:
 
 Ex: :muscle:, :clap:, :eyes:
